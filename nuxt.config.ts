@@ -9,6 +9,8 @@ export default defineNuxtConfig({
         '@nuxt/image',
     ],
     app: {
+        baseURL: '/sittidev-github-pages/', // baseURL: '/<repository>/'
+        buildAssetsDir: 'assets', // don't use "_" at the begining of the folder name to avoids nojkill conflict
         head: {
             meta: [
                 { charset: 'utf-8' },
