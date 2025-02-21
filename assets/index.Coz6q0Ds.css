@@ -1,0 +1,1 @@
+.text-hover:after{background-color:#12f7d6;bottom:-6px;content:"";height:2px;left:50%;position:absolute;transform:translate(-50%);transition:all .3s ease;width:0}.text-hover:hover:after{width:100%}
