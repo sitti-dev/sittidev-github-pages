@@ -1,0 +1,72 @@
+/* https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@300;400;500;600;700&display=fallback&text=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!%22%23$%25%26'()*%2B,%E2%80%94-.:?_%3C%3E%2F%E2%82%AC */
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 300;
+  font-display: fallback;
+  src: url('../fonts/IBM_Plex_Mono-300-1.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url('../fonts/IBM_Plex_Mono-400-2.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: fallback;
+  src: url('../fonts/IBM_Plex_Mono-500-3.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: fallback;
+  src: url('../fonts/IBM_Plex_Mono-600-4.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: url('../fonts/IBM_Plex_Mono-700-5.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  font-display: fallback;
+  src: url('../fonts/Ubuntu-300-6.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url('../fonts/Ubuntu-400-7.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  font-display: fallback;
+  src: url('../fonts/Ubuntu-500-8.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: url('../fonts/Ubuntu-700-9.woff2') format('woff2');
+}
